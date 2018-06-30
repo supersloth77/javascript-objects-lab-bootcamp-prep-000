@@ -1,4 +1,4 @@
-var recipes = { margarita: "limes" };
+var recipes = {};
 
 function destructivelyDeleteFromObjectByKey(recipes, key) {
   
